@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Daehyeon's github stats](https://github-readme-stats.vercel.app/api?username=noeyheadb&count_private=True&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Daehyeon's github stats](https://github-readme-stats.vercel.app/api?username=noeyheadb&count_private=True&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **noeyheadb/noeyheadb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
