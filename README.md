@@ -1,6 +1,16 @@
-### Hi there 👋
+<h3 align="center">
+  Hi👋, I'm Daehyeon Bae
+</h3>
+<h5 align="center">
+  About me : <a href="https://noeyheadb.github.io">here</a>
+</h5>
 
-[![Daehyeon's github stats](https://github-readme-stats.vercel.app/api?username=noeyheadb&count_private=True&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noeyheadb&count_private=True&include_all_commits=true&show_icons=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeyheadb&layout=compact&exclude_repo=noeyheadb.github.io"/>
+</p>
 
 <!--
 **noeyheadb/noeyheadb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
