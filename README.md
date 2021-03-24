@@ -9,9 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noeyheadb&count_private=True&include_all_commits=true&show_icons=true"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeyheadb&layout=compact&exclude_repo=noeyheadb.github.io"/>
 </p>
 
